@@ -1,5 +1,5 @@
 # quiz_maker
-Quiz web app, build in php laravel 5.4 framework.  you can create quizzes with tags and put different score for every question. 
+Quiz web app, built in php laravel 5.4 framework.  you can create quizzes with tags and put different score for every question. 
  <br>
   <br>
 <strong>What is quiz maker?</strong> <br>
